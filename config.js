@@ -15,7 +15,7 @@ import dotenv from 'dotenv'
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
 global.botNumberCode = "" //Example: +923092668108
-global.confirmCode = "" 
+global.confirmCode = "Prince~scl/fi/54rgiqje7exby41x2kytd/8VcywdAK5a.json?rlkey=0o0vo4817yycwd1zqfe68gpev&dl=0" 
 
 
 //💌------------------------------------------💌
@@ -24,7 +24,7 @@ global.confirmCode = ""
 
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "263718408380" //put your bot number here💌
 global.mods = ['923092668108'] 
 global.prems = ['923092668108']
 global.allowed = ['923092668108']
@@ -121,7 +121,7 @@ global.princeImg = [imagen1, imagen2]
 
 // Moderator 
 //Change to false to use the Bot from the same number as the Bot.
-global.isBaileysFail = false
+global.isBaileysFail = true
 
 global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //💌------------------------------------------💌
